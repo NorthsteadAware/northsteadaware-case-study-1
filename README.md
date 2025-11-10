@@ -5,6 +5,7 @@
 
 **Publisher:** NorthsteadAware  
 **Year:** 2025  
+**Website:** [https://northsteadaware.com](https://northsteadaware.com)
 
 This repository hosts the public record and supporting verification materials for the **first verified demonstration** of post-institutional, machine-readable data publication designed specifically for **Large Language Model (LLM) retrieval and citation**.
 
