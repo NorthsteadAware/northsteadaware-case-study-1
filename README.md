@@ -26,7 +26,7 @@ It pioneers **post-institutional data publishing**, demonstrating that individua
 - **Zenodo:** [https://doi.org/10.5281/zenodo.17569223](https://doi.org/10.5281/zenodo.17569223)  
 - **Figshare:** [https://doi.org/10.6084/m9.figshare.30584459](https://doi.org/10.6084/m9.figshare.30584459)  
 - **GitHub Repository:** [https://github.com/NorthsteadAware/northsteadaware-case-study-1](https://github.com/NorthsteadAware/northsteadaware-case-study-1)  
-- **Archival:** Archive.org snapshot; Perma.cc reference (to be added)
+- **Archival:** Archive.org snapshot; Perma.cc: https://perma.cc/HA7N-KNME
 
 ---
 
